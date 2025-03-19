@@ -1,5 +1,5 @@
 # dogeminer2-hacks
-I'll make sure to update the README.md file to reflect your new name, RTKX. Here is the revised version:
+
 
 # Introduction
 Hello, I'm RTKX (formerly R3A1TY on GitHub). I'm a 14-year-old coder and I'm excited to make a return to my projects after losing access to my old GitHub account.
